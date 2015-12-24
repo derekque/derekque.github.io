@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my blog.
 
-### More Information
+This is a gift to Ms. Molly for Christmas from Mr. Derek. 
 
-A place to include any other types of information that you'd like to include about yourself.
+If you have any comments regarding my blog, please feel free to contact me.
 
-### Contact me
+### You can find me via:
 
-[email@domain.com](mailto:email@domain.com)
+[muollykuo@outlook.com](mailto:muollykuo@outlook.com)
